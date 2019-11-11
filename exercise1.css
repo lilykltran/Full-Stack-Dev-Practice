@@ -1,0 +1,45 @@
+div{
+  text-align: center;
+  align-content: center;
+  background-color: white;
+  font-family: helvetica;
+  width: 60%;
+  padding: 20px;
+  margin: auto;
+}
+
+body{
+    background-image: linear-gradient(to right,rgb(10,180,10),rgb(250,250,20)) ;
+}
+
+#Undergrad{
+  color: blue;
+}
+
+#Undergrad:hover{
+  color: green;
+}
+
+#Graduate{
+  color: blue;
+}
+
+#Graduate:hover{
+  color: green;
+}
+
+input[type="submit"] {
+  color: blue;
+}
+
+input[type="submit"]:hover {
+  color: green;
+}
+
+input[type="reset"] {
+  color: blue;
+}
+
+input[type="reset"]:hover {
+  color: green;
+}

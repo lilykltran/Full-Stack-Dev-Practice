@@ -1,0 +1,11 @@
+#grid-item{
+    background-color: rgb(66, 66, 66);
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    height: 50px;
+}
+
+.row{
+    padding: 10px;
+}

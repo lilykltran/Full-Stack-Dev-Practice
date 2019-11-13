@@ -1,0 +1,28 @@
+.container{
+    height: 450px;
+    width: 800px;
+}
+
+.grid-container {
+    display: grid;
+    grid-gap: 10px;
+    padding: 10px;
+    grid-template-columns: auto auto auto auto;
+}
+
+.grid-item {
+    background-color: rgba(34, 34, 34, 0.8);
+    border-radius: 5px;
+    border: 1px solid rgba(34, 34, 34, 0.8);
+    font-size: 20px;
+    height: 100px;
+    width: 250px;
+    color: white;
+  }
+
+  #text{
+      padding: 10px;
+  }
+  *{
+    font-family: 'Times New Roman', Times, serif;
+  }

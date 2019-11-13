@@ -1,0 +1,21 @@
+.row{
+  margin: auto;
+}
+h1{
+  margin: auto;
+}
+.container{
+  margin: auto;
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+input[type="submit"]{
+  background-color: blue;
+  color: white;
+}
+
+input[type="reset"] {
+  background-color: gray;
+  color: white;
+}

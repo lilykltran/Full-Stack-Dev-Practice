@@ -1,0 +1,21 @@
+.row{
+  margin: auto;
+}
+h1{
+  margin: auto;
+}
+.container{
+  margin: auto;
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+#submitButton{
+  background-color: blue;
+  color: white;
+}
+
+#resetButton {
+  background-color: gray;
+  color: white;
+}

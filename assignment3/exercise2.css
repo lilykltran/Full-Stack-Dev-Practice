@@ -1,0 +1,29 @@
+body{
+    color: white;
+}
+*{
+    margin:2px;
+}
+.col-1{
+    background-color:navy;
+}
+
+.col-3{
+    background-color:purple;
+}
+
+.col-4{
+    background-color:darkcyan;
+}
+
+.col-6{
+    background-color:yellowgreen;
+}
+
+.col-8{
+    background-color:salmon;
+}
+
+.col-12{
+    background-color:green;
+}

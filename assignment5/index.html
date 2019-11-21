@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>express</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    <script src="src/app.js"></script>
+</head>
+    <form action="/submit" method="post">
+    <div class="col-sm-4 col-xs-4 col-lg-4 col-xl-4 col-md-4">
+      <div class = "container">
+        <div class = "row">
+        <h1>CONTACT US</h1>
+        </div>
+        
+        <div class="form-group">
+          <label for="name">Name</label>
+          <input class="form-control input-sm"
+          id="name" name="nameBox" type="text">
+        </div>
+
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input class="form-control input-sm"
+          id="email" name="emailBox" type="text">
+        </div>
+
+        <div class="form-group">
+          <label for="comment">Comment</label>
+          <input class="form-control input-lg" id="comment" name="commentBox" type="text">
+        </div>
+
+        <div class="row">
+          <input type="submit" value="Submit">
+          <input type="reset" value="Reset">
+        </div>
+      </div><!--row-->
+  </div><!--container-->
+</form>
+<body>
+    
+</body>
+</html>

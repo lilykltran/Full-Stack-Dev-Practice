@@ -1,10 +1,9 @@
 # cs465-565-inclass-assignments
 
 Folder: Assignment1<br />
-<p>
   exercise1.html = HTML FORM<br />
   exericse2.html = Recreated HTML elements to http://placekitten.com<br />
-  exercise3.html = HTML for my portfolio<br /></p>
+  exercise3.html = HTML for my portfolio<br />
 <br />
 Folder: Assignment2<br />
   exercise1.html, exercise1.css = css styling to the HTML FORM from Assignment1<br />
